@@ -4,3 +4,10 @@ por pantalla el contenido de la variable.
 '''
 palabra = "¡Hola Mundo!"
 print(palabra)
+
+
+
+
+
+
+
